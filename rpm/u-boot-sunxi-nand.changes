@@ -1,0 +1,9 @@
+* Tue Dec 17 2013 Marco Martin <mart@kde.org> - 2013.01+git20131217.174238
+- Update automatically tarball from repository.
+- Repository URL: https://github.com/notmart/u-boot-sunxi.git
+- Branch:  lichee-dev-a20-eoma68
+- Commit ID: 97c7c5f03af58b95f18cb197912253d489625b4b
+
+* Tue Dec 17 Marco Martin <mart@kde.org> - 2013.01
+- initial commit
+
